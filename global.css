@@ -1,0 +1,27 @@
+body {
+    background: rgb(134,31,199);
+    background: radial-gradient(circle, rgba(134,31,199,1) 0%, rgba(92,10,147,1) 67%, rgba(70,3,97,1) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-group {
+    background-color: #ffffffcb;
+    width: 25rem;
+    height: 37rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
